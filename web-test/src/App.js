@@ -10,11 +10,65 @@ function App() {
           <button type="button" class="btn btn-primary">Refresh</button>
         </header>
         <section className="content-data">
-          <div className="card">
-            <img src="" alt="" className="avatar"/>
-            <h3 className="name">Ocean</h3>
-            <h4 className="username">@ahmad</h4>
-            <button className="btn-x">x</button>
+          <div className="cards">
+            <div className="box-avatar">
+              <img src="" alt="" className="avatar"/>
+            </div>
+            <div className="box-name">
+              <p className="name">Ocasasasdasdsadasean</p>
+            </div>
+            <div className="box-username">
+              <p className="username">@ahmadasdasdasdasd</p>
+            </div>
+            <button type="button" class="btn btn-primary btn-x">X</button>
+          </div>
+          <div className="cards">
+            <div className="box-avatar">
+              <img src="" alt="" className="avatar"/>
+            </div>
+            <div className="box-name">
+              <p className="name">Ocasasasdasdsadasean</p>
+            </div>
+            <div className="box-username">
+              <p className="username">@ahmadasdasdasdasd</p>
+            </div>
+            <button type="button" class="btn btn-primary btn-x">X</button>
+          </div>
+          <div className="cards">
+            <div className="box-avatar">
+              <img src="" alt="" className="avatar"/>
+            </div>
+            <div className="box-name">
+              <p className="name">Ocasasasdasdsadasean</p>
+            </div>
+            <div className="box-username">
+              <p className="username">@ahmadasdasdasdasd</p>
+            </div>
+            <button type="button" class="btn btn-primary btn-x">X</button>
+          </div>
+          <div className="cards">
+            <div className="box-avatar">
+              <img src="" alt="" className="avatar"/>
+            </div>
+            <div className="box-name">
+              <p className="name">Ocasasasdasdsadasean</p>
+            </div>
+            <div className="box-username">
+              <p className="username">@ahmadasdasdasdasd</p>
+            </div>
+            <button type="button" class="btn btn-primary btn-x">X</button>
+          </div>
+          <div className="cards">
+            <div className="box-avatar">
+              <img src="" alt="" className="avatar"/>
+            </div>
+            <div className="box-name">
+              <p className="name">Ocasasasdasdsadasean</p>
+            </div>
+            <div className="box-username">
+              <p className="username">@ahmadasdasdasdasd</p>
+            </div>
+            <button type="button" class="btn btn-primary btn-x">X</button>
           </div>
         </section>
       </div>
